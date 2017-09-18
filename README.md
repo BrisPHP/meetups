@@ -1,2 +1,36 @@
-# meetups
-A place to request and propose talks.
+# BrisPHP Meetup 🐘
+
+This is where you can request a talk topic, or propose a talk you would like to present. To see details of our next meetup, view our [Meetup Page](https://www.meetup.com/BrisPHP/)
+
+**⭐️Star this repo to stay up to date with what's happening in the community ⭐️**
+
+## Community
+
+* Do you want to see a talk? 
+* Did you have a talk you wanted to give?
+* Are you looking to hire?
+* Are you looking for help?
+
+[Contribute to our community](https://github.com/BrisPHP/meetups/issues/new)
+
+
+## Past Talks
+
+Materials from past talks (slides/videos) will be posted here.
+
+
+## Sponsors
+
+The BrisPHP Meetup is supported by sponsorship from:
+
+![!RedEye](./images/redeye.jpeg)
+
+[RedEye - Cloud and mobile solutions for asset & work management](https://redeye.co)
+
+**Sponsors:** Venue & Pizza
+
+![!DingoPM](./images/dingo_pm.jpeg)
+
+[DingoPM - Issue tracker for project managers and their clients](https://dingo.pm/)
+
+**Sponsors:** Drinks
