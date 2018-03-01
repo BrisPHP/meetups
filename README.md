@@ -16,7 +16,7 @@ This is where you can request a talk topic, or propose a talk you would like to 
 
 ## Past Talks
 
-Materials from past talks (slides/videos) will be posted here.
+Materials from past talks (slides/videos) will be posted [here](https://github.com/BrisPHP/meetups/issues?utf8=%E2%9C%93&q=is%3Aissue+label%3A%22Talk+Finalised%22+).
 
 
 ## Sponsors
