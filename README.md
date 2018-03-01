@@ -23,7 +23,7 @@ Materials from past talks (slides/videos) will be posted here.
 
 The BrisPHP Meetup is supported by sponsorship from:
 
-![!CreditSense](./images/creditsense.jpeg)
+![!CreditSense](./images/creditsense.png)
 
 [CreditSense - Transaction analysis that makes sense](https://creditsense.com.au/)
 
