@@ -23,14 +23,14 @@ Materials from past talks (slides/videos) will be posted here.
 
 The BrisPHP Meetup is supported by sponsorship from:
 
-![!RedEye](./images/redeye.jpeg)
+![!CreditSense](./images/creditsense.jpeg)
 
-[RedEye - Cloud and mobile solutions for asset & work management](https://redeye.co)
+[CreditSense - Transaction analysis that makes sense](https://creditsense.com.au/)
 
-**Sponsors:** Venue & Pizza
+**Sponsors:** Venue, Pizza * Beers
 
 ![!DingoPM](./images/dingo_pm.jpeg)
 
 [DingoPM - Issue tracker for project managers and their clients](https://dingo.pm/)
 
-**Sponsors:** Drinks
+**Sponsors:** Organisers
