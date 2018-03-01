@@ -27,7 +27,7 @@ The BrisPHP Meetup is supported by sponsorship from:
 
 [CreditSense - Transaction analysis that makes sense](https://creditsense.com.au/)
 
-**Sponsors:** Venue, Pizza * Beers
+**Sponsors:** Venue, Pizza & Beers
 
 ![!DingoPM](./images/dingo_pm.jpeg)
 
