@@ -23,19 +23,19 @@ Materials from past talks (slides/videos) will be posted [here](https://github.c
 
 The BrisPHP Meetup is supported by sponsorship from:
 
-![!CreditSense](./images/creditsense.png)
+![CreditSense](./images/creditsense.png)
 
 [CreditSense - Transaction analysis that makes sense](https://creditsense.com.au/)
 
 **Sponsors:** Venue, Pizza & Beers
 
-![!neto](./images/neto-logo.svg)
+![neto](./images/neto-logo.svg | width=100)
 
 [neto - All-in-one ecommerce, poit of sale, inventory and fulfilment solution](https://www.neto.com.au/)
 
 **Sponsors:** Pizza & Beers
 
-![!DingoPM](./images/dingo_pm.jpeg)
+![DingoPM](./images/dingo_pm.jpeg)
 
 [DingoPM - Issue tracker for project managers and their clients](https://dingo.pm/)
 
