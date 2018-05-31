@@ -29,6 +29,12 @@ The BrisPHP Meetup is supported by sponsorship from:
 
 **Sponsors:** Venue, Pizza & Beers
 
+![!neto](./images/neto-logo.svg)
+
+[neto - All-in-one ecommerce, poit of sale, inventory and fulfilment solution](https://www.neto.com.au/)
+
+**Sponsors:** Pizza & Beers
+
 ![!DingoPM](./images/dingo_pm.jpeg)
 
 [DingoPM - Issue tracker for project managers and their clients](https://dingo.pm/)
