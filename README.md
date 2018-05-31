@@ -29,7 +29,7 @@ The BrisPHP Meetup is supported by sponsorship from:
 
 **Sponsors:** Venue, Pizza & Beers
 
-<img src="/BrisPHP/meetups/raw/8c3ce98dcf37339f7e7902ea2377e7fdc0dc9139/images/neto-logo.svg?sanitize=true" alt="neto" style="max-width:100;">
+<img src="/BrisPHP/meetups/raw/master/images/neto-logo.svg?sanitize=true" alt="neto" style="max-width:100;">
 
 [neto - All-in-one ecommerce, poit of sale, inventory and fulfilment solution](https://www.neto.com.au/)
 
