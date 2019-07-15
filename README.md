@@ -59,3 +59,8 @@ The BrisPHP Meetup is supported by sponsorship from:
 [neto - All-in-one ecommerce, poit of sale, inventory and fulfilment solution](https://www.neto.com.au/)
 
 **Sponsors:** Pizza & Beers
+
+## Code of conduct
+
+View our Code of Conduct [here](./code-of-conduct.md)
+
