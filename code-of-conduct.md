@@ -1,4 +1,4 @@
-# Brisbane Tech Meetup Code of Conduct
+# BrisPHP Meetup Code of Conduct
 
 This meetup is dedicated to providing a respectful, harassment-free community for everyone. We do not tolerate harassment or bullying of any community member in any form. This does not only extend to members to local meetup communities, but to anyone who chooses to become involved in the larger meetup community of users, developers and integrators through events or interactions.
 
