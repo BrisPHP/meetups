@@ -22,15 +22,15 @@ Materials from past talks (slides/videos) will be posted [on their GitHub issue]
 
 The BrisPHP Meetup has three amazing sponsors which all provide venues, food and drinks on a rotating basis.
 
-![CreditSense](./images/creditsense.png)
+![creditsense-logo](./images/creditsense.png)
 
 [CreditSense - Transaction analysis that makes sense](https://creditsense.com.au/)
 
-<img src="/images/neto-logo.svg?sanitize=true" alt="neto" width="200">
+<img src="/images/neto-logo.svg?sanitize=true" alt="neto-logo" width="200">
 
 [neto - All-in-one ecommerce, poit of sale, inventory and fulfilment solution](https://www.neto.com.au/)
 
-![Infoxchange](./images/infoxchange.png)
+<img src="/images/infoxchange.png" alt="infoxchange-logo" width="200">
 
 [Infoxchange - Delivering technology for social justice for 30 years](https://www.infoxchange.org/au)
 
