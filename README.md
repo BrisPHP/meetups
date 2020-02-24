@@ -11,7 +11,7 @@ This is where you can request a talk topic, or propose a talk you would like to 
 * Are you looking to hire?
 * Are you looking for help?
 
-[Contribute to our community](https://github.com/BrisPHP/meetups/issues/new)! You will go into the draw to win a [Knp University](https://knpuniversity.com/) voucher, we give away one at every meetup.
+[Contribute to our community](https://github.com/BrisPHP/meetups/issues/new)!
 
 
 ## Past Talks
