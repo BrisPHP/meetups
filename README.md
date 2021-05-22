@@ -43,7 +43,7 @@ Our organisers (Tom & Nathan) are provided by ProcurePro.
 
 We are also supported by JetBrains, who provide IntelliJ licenses as giveaways for attendees.
 
-<img src="/images/jetbrains-logo.png" alt="JetBrains logo" width="200">
+<img src="/images/jetbrains-logo.svg" alt="JetBrains logo" width="200">
 
 [JetBrains - Essential tools for software developers and teams](https://www.jetbrains.com/)
 
