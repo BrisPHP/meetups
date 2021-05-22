@@ -23,16 +23,29 @@ Materials from past talks (slides/videos) will be posted [on their GitHub issue]
 The BrisPHP Meetup has three amazing sponsors which all provide venues, food and drinks on a rotating basis.
 
 ![creditsense-logo](./images/creditsense.png)
+<img src="/images/creditsenseo.png" alt="CreditSense Logo" width="200">
 
 [CreditSense - Transaction analysis that makes sense](https://creditsense.com.au/)
 
-<img src="/images/neto-logo.svg?sanitize=true" alt="neto-logo" width="200">
+<img src="/images/neto-logo.svg?sanitize=true" alt="Neto Logo" width="200">
 
 [neto - All-in-one ecommerce, poit of sale, inventory and fulfilment solution](https://www.neto.com.au/)
 
-<img src="/images/infoxchange.png" alt="infoxchange-logo" width="200">
+<img src="/images/infoxchange.png" alt="Infoxchange Logo" width="200">
 
 [Infoxchange - Delivering technology for social justice for 30 years](https://www.infoxchange.org/au)
+
+Our organisers (Tom & Nathan) are provided by ProcurePro.
+
+<img src="/images/procurepro-logo.png" alt="ProcurePro logo" width="200">
+
+[ProcurePro - Trade procurement - Simple, Accurate & Efficient](https://procurepro.co)
+
+We are also supported by JetBrains, who provide IntelliJ licenses as giveaways for attendees.
+
+<img src="/images/jetbrains-logo.png" alt="JetBrains logo" width="200">
+
+[JetBrains - Essential tools for software developers and teams](https://www.jetbrains.com/)
 
 ## Code of conduct
 
