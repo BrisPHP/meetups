@@ -27,7 +27,7 @@ The BrisPHP Meetup has three amazing sponsors which all provide venues, food and
 
 [CreditSense - Transaction analysis that makes sense](https://creditsense.com.au/)
 
-<img src="/images/neto-logo.svg?sanitize=true" alt="Neto Logo" width="200">
+<img src="/images/neto-logo.png" alt="Neto Logo" width="200">
 
 [neto - All-in-one ecommerce, poit of sale, inventory and fulfilment solution](https://www.neto.com.au/)
 
