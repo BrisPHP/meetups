@@ -22,27 +22,27 @@ Materials from past talks (slides/videos) will be posted [on their GitHub issue]
 
 The BrisPHP Meetup has three amazing sponsors which all provide venues, food and drinks on a rotating basis.
 
-<img src="/images/creditsense.png" alt="CreditSense Logo" width="200" style="padding: 1rem; background-color: white">
+<img src="/images/creditsense.png" alt="CreditSense Logo" width="200">
 
 [CreditSense - Transaction analysis that makes sense](https://creditsense.com.au/)
 
-<img src="/images/foundu.png" alt="Neto Logo" width="200" style="padding: 1rem; background-color: white">
+<img src="/images/foundu.png" alt="foundU Logo" width="200">
 
 [foundU - The single, all-in-one workforce management platform](https://www.foundu.com.au/)
 
 Our organisers (Tom & Nathan) are provided by ProcurePro.
 
-<img src="/images/procurepro.png" alt="ProcurePro logo" width="200" style="padding: 1rem; background-color: white;">
+<img src="/images/procurepro.png" alt="ProcurePro Logo" width="200">
 
 [ProcurePro - Trade procurement - Simple, Accurate & Efficient](https://procurepro.co)
 
 We are also supported by JetBrains and AWS, who provide IntelliJ licenses and AWS vouchers as giveaways for attendees.
 
-<img src="/images/jetbrains.png" alt="JetBrains logo" width="200">
+<img src="/images/jetbrains.png" alt="JetBrains Logo" width="200">
 
 [JetBrains - Essential tools for software developers and teams](https://www.jetbrains.com/)
 
-<img src="/images/aws.png" alt="AWS logo" width="200">
+<img src="/images/aws.png" alt="AWS Logo" width="200">
 
 [AWS - Start Building on AWS Today](https://aws.amazon.com/)
 
