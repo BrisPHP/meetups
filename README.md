@@ -1,6 +1,7 @@
-# BrisPHP Meetup 🐘
+# BrisPHP Meeting 🐘
 
-This is where you can request a talk topic, or propose a talk you would like to present. To see details of our next meetup, view our [Meetup Page](https://www.meetup.com/BrisPHP/).
+This is where you can request a talk topic, or propose a talk you would like to present. To see details of our next meeting, view our
+[Humanitix Page](https://events.humanitix.com/host/brisphp).
 
 **⭐️Star this repo to stay up to date with what's happening in the community ⭐️**
 
@@ -20,7 +21,7 @@ Materials from past talks (slides/videos) will be posted [on their GitHub issue]
 
 ## Sponsors
 
-The BrisPHP Meetup has three amazing sponsors which all provide venues, food and drinks on a rotating basis.
+The BrisPHP Meeting has three amazing sponsors which all provide venues, food and drinks on a rotating basis.
 
 <img src="/images/creditsense.png" alt="CreditSense Logo" width="200">
 
